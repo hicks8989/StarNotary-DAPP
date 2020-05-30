@@ -1,2 +1,5 @@
 # cryptostar-dapp
- Decentralized application that allows users to purchase star tokens on the etherium network.
+DAPP that allows users to look up, purchase, exchange, and transfer stars on the Ethereum blockchain network.
+
+## Status
+The project is still currently under development.
