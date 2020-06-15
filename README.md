@@ -15,7 +15,7 @@ This will add the project files to your local machine.
 Next, change to the project root folder.
 
 ```
-cd starnotary-dapp
+cd starnotary
 ```
 
 This will bring you to the projects root directory.
