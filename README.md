@@ -1,4 +1,4 @@
-# StarNotary DAPP
+# StarNotary
 DAPP that allows users to look up, purchase, exchange, and transfer ERC-721 star tokens, known as `Geminorium` (GEM), on the Ethereum blockchain network.
 
 This application is currently deployed to the Rinkeyby test network. Contract address is [`0x82c0f8C20320158d39D396272be576210A3357ce`](https://rinkeby.etherscan.io/tx/0xbec9cd29465e184bca42d466e33a04647d34a9f2563f709e72499567306281f7).
@@ -7,7 +7,7 @@ This application is currently deployed to the Rinkeyby test network. Contract ad
 To get started running a local instance of the DAPP, use the `git clone` command to clone the repository to your local machine:
 
 ```
-git clone https://github.com/hicks8989/starnotary-dapp
+git clone https://github.com/hicks8989/starnotary
 ```
 
 This will add the project files to your local machine.
